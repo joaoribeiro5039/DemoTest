@@ -21,14 +21,14 @@
                 "vt": "str"
             }
         ],
-        "repeat": "",
+        "repeat": "1",
         "crontab": "",
         "once": false,
         "onceDelay": 0.1,
         "topic": "",
         "payload": "",
         "payloadType": "date",
-        "x": 300,
+        "x": 310,
         "y": 180,
         "wires": [
             [
@@ -67,7 +67,7 @@
         "statusVal": "",
         "statusType": "auto",
         "x": 540,
-        "y": 280,
+        "y": 340,
         "wires": []
     },
     {
@@ -82,7 +82,7 @@
         "complete": "false",
         "statusVal": "",
         "statusType": "auto",
-        "x": 720,
+        "x": 560,
         "y": 180,
         "wires": []
     }
